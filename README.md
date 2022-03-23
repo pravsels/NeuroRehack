@@ -2,6 +2,15 @@
 
 low cost, audio-visual feedback system for neuro-rehabilitation exercise verification and report generation.
 
+Video Demos Playlist: https://www.youtube.com/playlist?list=PLYUXcqZAo0xhRsWlfbZt_NONLY_MhdJzH
+
+# Web Links
+
+NeuroRehack '21 Page: https://www.neurorehack.com/
+
+NeuroRehack Project Page Archive: https://archive.ph/BuHvh
+NeuroRehack Main Page Archive: https://archive.ph/0dWOo
+
 # Usage
 
 To process the video file of an action, so as to store salient data from openpose as json, you'll need to provide the action folder's name as an argument:
